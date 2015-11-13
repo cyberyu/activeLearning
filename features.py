@@ -111,6 +111,6 @@ def preprocess(doc):
     # Convert to lower case, split into individual words
     clean_doc = letters_only.lower()
      
-    # return list for one doc
-    return [clean_doc]
+    # return 
+    return str(clean_doc)
     
